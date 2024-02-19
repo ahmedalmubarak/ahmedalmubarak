@@ -1,21 +1,14 @@
 
 <h1 align="left">Hi 👋, I'm Ahmed Mohammed</h1>
 
-<p align="center"> <a href="https://twitter.com/0xom1" target="blank"><img src="https://img.shields.io/twitter/follow/ahmed?logo=twitter&style=for-the-badge" alt="ahmed" /></a> </p>
 
  🔭 I’m currently working on 
  
-  - Client Flutter mobile apps 📱
-   
-  - Open source Flutter projects 💡
+  - Asp.NEt core Web API 📱
   
-  * 🌱 I’m currently learning everything I can find about Flutter 💙, the learning never stops!
-  
-  * 💬 Ask me about anything Flutter 💙
+  * 🌱 I’m currently learning everything I can find about .Net Core 💙, the learning never stops!
   
   * 📫 How to reach me:
-  
-  [!["Twitter"](https://img.shields.io/twitter/follow/0xom1?label=twitter)](https://twitter.com/AhmadAlmubrak)
   
   [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ahmedalmubark/)
   
